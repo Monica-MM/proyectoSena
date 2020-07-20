@@ -1,0 +1,19 @@
+.navColor{
+background-color:#28a89b;
+
+
+}
+
+.fuente{
+
+
+    color: white;
+}
+
+
+.image{
+    height:28em; 
+    background-size:cover; width:auto;
+    background-image:url('Assets/logo.png');
+    background-position:50% 50%;
+}
